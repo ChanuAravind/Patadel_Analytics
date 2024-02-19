@@ -1,0 +1,6 @@
+flask
+gunicorn
+gensim
+pandas
+scikit-learn
+streamlit
